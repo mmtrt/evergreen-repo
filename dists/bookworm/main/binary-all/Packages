@@ -1,0 +1,34 @@
+Package: adaptation-droidian-evergreen
+Architecture: all
+Version: 0.0+1
+Priority: optional
+Section: metapackages
+Maintainer: mmtrt
+Installed-Size: 9
+Depends: adaptation-hybris-api30-phone, adaptation-evergreen-configs, wlr-randr
+Filename: pool/main/adaptation-droidian-evergreen_0.0+1_all.deb
+Size: 2068
+MD5sum: 16326851482400c9ba09d7d75290653f
+SHA1: 0a1b4789685bc85c36c167ace092b5e0038ced80
+SHA256: c31c01e8ae1a66ffc9f4d6c243587d0590d00648b733771e1402907cdc9b2668
+SHA512: 72474d64a8e70bbad1c9fb7f1023400aa0892cfdc2faf82421c7104917c5a8ea0bf9193f491c790d926b1265c4e6f6a04e234a21c2ea7d207e698978eddec64b
+Description: adapatation-evergreen-meta
+ evergreen api30 adaptation metapackage
+
+Package: adaptation-evergreen-configs
+Architecture: all
+Version: 0.0+1
+Priority: optional
+Section: metapackages
+Source: adaptation-droidian-evergreen
+Maintainer: mmtrt
+Installed-Size: 206
+Depends: dconf-gsettings-backend | gsettings-backend
+Filename: pool/main/adaptation-evergreen-configs_0.0+1_all.deb
+Size: 34584
+MD5sum: ca988ade611f8587c78df27b68642bc8
+SHA1: a99351290666bad4c71be8bd3888a7362d2f40d9
+SHA256: c96785e179acb53fbe3399b9a3744ce6889b534c22444416cb100b27f4fcb49f
+SHA512: 5d7a043c9f3b92efa1c0cdebfa0919e8c847f80d94b18cd8ccfc1a77efce9c3f261814b0fca85d547d41a7ec2372bb2a9fd1b98f79222251ef5d058086267379
+Description: evergreen's adaptation configs
+
