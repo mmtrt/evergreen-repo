@@ -1,7 +1,7 @@
 Architectures: all
 Codename: bookworm
 Components: main
-Date: Sat, 03 Jun 2023 19:43:51 +0000
+Date: Sat, 03 Jun 2023 21:01:32 +0000
 Description: Repository for xiaomi evergreen
 Label: mmtrt
 Origin: mmtrt
@@ -9,7 +9,7 @@ Suite: bookworm
 MD5Sum:
  f2ec321bdb9ddd2f6c2ed12ce3f14dcd              611 Contents-all.bz2
  497a577a7b8ca3cb5781b0fbfef33526              517 Contents-all.gz
- 71b2cba42808a21f40c9031bfa078e2e              181 Release
+ 2c67fc67603b896849a458f152695039              181 Release
  b9f2c9db1e52fa9814b39bdaf68287c2              590 main/Contents-all.bz2
  4fa41ac59a17ce04db66b198c5f1c7c4              502 main/Contents-all.gz
  e8d7103254fc6f43a02877131b9b651b             1342 main/binary-all/Packages
@@ -18,7 +18,7 @@ MD5Sum:
 SHA1:
  446e7a63e9eeed9f981b690333bcd43c113372a1              611 Contents-all.bz2
  8faa7a96b4366a91b7bce23b0be4b277b5df168e              517 Contents-all.gz
- d63f7019798953ea6f1ab9886fa84ccf1a690fc6              181 Release
+ e2d1735fc80786a30d8cdbc3a35a9694140e7433              181 Release
  a602a17b36434aacc70ed111969c5fd77a61f7cb              590 main/Contents-all.bz2
  36687c3894384dd0d59186238ee3618f79f51d47              502 main/Contents-all.gz
  e5151e3a869de39b7608f714c62cbd43706c1735             1342 main/binary-all/Packages
@@ -27,7 +27,7 @@ SHA1:
 SHA256:
  ba74aca7582f4f3d7643a770046b5e3e84e53cb5843df902b84ff6eec58451c1              611 Contents-all.bz2
  9d9937360cc796d945fe94610bd44f592e30d5dfde347b2bb1317e8679818504              517 Contents-all.gz
- 09c43f605f7f012bdcd8465d38e4a3943de309a406cd1a7053ed6e898f5342d2              181 Release
+ f45d82a6fec3c88ab2c9b302e83d3367e4b522581ea0cd907992ac83f903bade              181 Release
  9bfb43dcf555e7e61ac08c80ca699466e3130b80dd5cb35e41183fcf6802c13d              590 main/Contents-all.bz2
  5916d4392dfcfa7e9c944d42ca2b54f53e967ba63ab9b9386a387b5775de556a              502 main/Contents-all.gz
  19823e11ff4a14619e93f4afed90483b635eb8dd47c9af54682f474517cb7673             1342 main/binary-all/Packages
@@ -36,7 +36,7 @@ SHA256:
 SHA512:
  261fe5c206fb875a227995e5731847ded52576c7996e71ebb176ef3f92c3b45314eadffde91b673f433c221693d70864bfd170e906f925aaa9b604ca7467c35b              611 Contents-all.bz2
  82f537674ac28c8667d8f45dab7e53ee8b39ea40e66b8766de23c3a465809636e34d872c223c2dbf21628e5e4e60ee2b841436caebedf9a996da0a59c02f0780              517 Contents-all.gz
- 3e3309786b4e95c4fe58f6af7e896e3f98e643eec7f8da1b02642ac87dbc3da17d42d9ee06cf0f411371f119330ae69f02fec7555d493960ad3f499ad23aeeac              181 Release
+ d7d4b9a29a1f0e62243c77cf62c0d15d505fff1a180195bac4dc416b1f10090e529da3cc8287625056c3df92d9a195c61c255f43dca6b51ed13e1ffd6525efea              181 Release
  eca1d0d983e9b9ec6cef6ef349587375f55d73ce5b37eba6f02a43978a04ad894c38171d314745b932a1de181ddd5994636688033b6a7e865a58a889bcc0fb86              590 main/Contents-all.bz2
  158e1b84d68db999e7930d4b5f2e40e488e00bc684d1fccff1595ea20bcc9f752234ac03dc7a12424de3f9a51afe633354726bb5bd047a4243a11bf14b7ee60e              502 main/Contents-all.gz
  8346158e7c8b154b7a8eca5081ba16a789c3175ade29dd4cc93a0fb927f474bccfcbb92f9092391d43b6a6e8528099327d603e59803eb9beef2ee45714d121a6             1342 main/binary-all/Packages
