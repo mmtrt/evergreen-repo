@@ -1,0 +1,54 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Architectures: all
+Codename: trixie
+Components: main
+Date: Wed, 11 Oct 2023 08:32:07 +0000
+Description: Repository for xiaomi evergreen
+Label: mmtrt
+Origin: mmtrt
+Suite: trixie
+MD5Sum:
+ 23706471c88c54bdb9af5c39f9ab3da9              622 Contents-all.bz2
+ 1dffc8ddfc2664e9edd4a98f006aa113              532 Contents-all.gz
+ a0e3c326a5db6937734154233da4388d              177 Release
+ 23706471c88c54bdb9af5c39f9ab3da9              622 main/Contents-all.bz2
+ 1dffc8ddfc2664e9edd4a98f006aa113              532 main/Contents-all.gz
+ a52afccf96c654638fd9300401c95350             1363 main/binary-all/Packages
+ ba80717073ed2f99d0aa0f71c6225770              769 main/binary-all/Packages.bz2
+ b0c51a844a10f322314ab5905e1dc08e              709 main/binary-all/Packages.gz
+SHA1:
+ 906295b9736b5edae33eec6e2a2fcbea9e30128d              622 Contents-all.bz2
+ aed0541eee635b1bbd17baf53005fe4ad11668e7              532 Contents-all.gz
+ 9d5f15b3b21af72d57181007902586b1140308d3              177 Release
+ 906295b9736b5edae33eec6e2a2fcbea9e30128d              622 main/Contents-all.bz2
+ aed0541eee635b1bbd17baf53005fe4ad11668e7              532 main/Contents-all.gz
+ 1209d2ba4adeded671a28b0c141e31a14331a8d8             1363 main/binary-all/Packages
+ 9dd672ebe9f2cf75305a0915bf0227d6bc0fe6dc              769 main/binary-all/Packages.bz2
+ d99caff4d8a9064b114aa56177b00eff9d8d9b8f              709 main/binary-all/Packages.gz
+SHA256:
+ 49ed96575f9dab0a919ff439acdc4e550ab8153af7a00583f4b178f70018497e              622 Contents-all.bz2
+ 4243e1252bcf3e93627ecfa93706ff8849e2dfe3e9d327b1f14e737b199ec11f              532 Contents-all.gz
+ 87960eb0ab23571913627584b23f68c1bda92174f67fdf292b6ec194b2fe1ac5              177 Release
+ 49ed96575f9dab0a919ff439acdc4e550ab8153af7a00583f4b178f70018497e              622 main/Contents-all.bz2
+ 4243e1252bcf3e93627ecfa93706ff8849e2dfe3e9d327b1f14e737b199ec11f              532 main/Contents-all.gz
+ 04bc902c4a8e0803750dd1adb1dee1a1b91a313aa8904e8c7e60e7155f70c567             1363 main/binary-all/Packages
+ 03f99087d1f3894877260c0837d3f48d802b4688d5c6d04e02c71736181f5a7a              769 main/binary-all/Packages.bz2
+ bf1754f240fa097dc12d1e1c6d8c4da563d9c6a65a4e7f18836e0ae2b7dfb2a4              709 main/binary-all/Packages.gz
+SHA512:
+ 6b8991ccbc1fe56dbbb9680b4570d9bd978e11b11fb59ebd34472eb611758694c3ce342ba0494f8af7a905327c8d16c8afe3b2664c6af16e25e34f9852dac788              622 Contents-all.bz2
+ dc3e35f677821444fa62ab4f5c78e5e9f078d7b47fe8d863989e5c9d7ea412932d4b44511a754d2c5b239040e3593ac63bf815968dc5dddf357052ad63cc1f32              532 Contents-all.gz
+ 50c48ce251919942d54866ddbe7edbaa010e104a6341ae9c97113b576c7bdc8e483378d316db15332cebfb066af17343f1eb68bf1fd3818d90cdfef52131acb7              177 Release
+ 6b8991ccbc1fe56dbbb9680b4570d9bd978e11b11fb59ebd34472eb611758694c3ce342ba0494f8af7a905327c8d16c8afe3b2664c6af16e25e34f9852dac788              622 main/Contents-all.bz2
+ dc3e35f677821444fa62ab4f5c78e5e9f078d7b47fe8d863989e5c9d7ea412932d4b44511a754d2c5b239040e3593ac63bf815968dc5dddf357052ad63cc1f32              532 main/Contents-all.gz
+ 16da07228c23f3729c7d6e8fa2bffa0f9965d2a46650bbb6d3ea549d1981877ebaa00dbbf52c49705aa2631938e1a2e39ddc7b72e3b63fe4550f95b1f33b0582             1363 main/binary-all/Packages
+ a917bda0b18d75842a18bccd2459673a92ccf1220da9bf083617e0b844c675ded2f98e4f7f66e2af1922649c88ce17303df4a91818d8283fbecbe2eee8ac67cf              769 main/binary-all/Packages.bz2
+ ba151b58a2f8e2ea598bce8c43777557c98662533929000325c9c1e5db50d3d54ce11d1cb4e7807daeaed46bb17b715adcff8ed3738b19c2cd8072a4d643edca              709 main/binary-all/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQRiuToOSYKeScYwd8csTTZbMB3LwwUCZSZdhwAKCRAsTTZbMB3L
+w4zkAQDTCTq0rWCq+tOyzqCCU4NPe4Rj12tLUXqapYIFxWX4nwEAoGJEIA2rSxqE
+MyNosryFO48T8PRXdewgDrCuI6fwnwQ=
+=46a8
+-----END PGP SIGNATURE-----
