@@ -1,34 +1,34 @@
 Package: adaptation-droidian-evergreen
 Architecture: all
-Version: 0.0+2
+Version: 0.0+3
 Priority: optional
 Section: metapackages
 Maintainer: mmtrt
 Installed-Size: 9
 Depends: adaptation-hybris-api30-phone, adaptation-evergreen-configs, bsdextrautils, droidian-camera
-Filename: pool/main/adaptation-droidian-evergreen_0.0+2_all.deb
-Size: 2284
-MD5sum: 165332d57840abc279e4c90e2d1f03d5
-SHA1: 39f0b1ed100bd811d60d0cfc70d57ca0d6790f57
-SHA256: 17a2cd9ac8393387f55c2c4695ce253728e8a88d6c15d57a7c08ea0a7a529670
-SHA512: 0a266fec44db3b441deb38c38d08caf9a173efe5129afa83a88490d0ccbfdbf598a4b769f1e63730306d6f9c1191e27941273f9b6b9a6a7a99de6a5ba249b169
+Filename: pool/main/adaptation-droidian-evergreen_0.0+3_all.deb
+Size: 2376
+MD5sum: 5166650f18f9bde34171dc6511ab923a
+SHA1: 00a0d0c8b8432854c56372223db4d0cd87d53086
+SHA256: 74ff1057fca8b7942beed206f161a11cd46456b16ecac09fcdab70bfbe016fe7
+SHA512: d3026399262ced91d10a2541404d3a56dfa38766c9db1d2c3753e4890efddb47935f3d285a7b6556c987b1a32f8fda249983a6463bf2d878e09e4460d7393dc0
 Description: adapatation-evergreen-meta
  evergreen api30 adaptation metapackage
 
 Package: adaptation-evergreen-configs
 Architecture: all
-Version: 0.0+2
+Version: 0.0+3
 Priority: optional
 Section: metapackages
 Source: adaptation-droidian-evergreen
 Maintainer: mmtrt
-Installed-Size: 149
+Installed-Size: 160
 Depends: dconf-gsettings-backend | gsettings-backend
-Filename: pool/main/adaptation-evergreen-configs_0.0+2_all.deb
-Size: 28320
-MD5sum: b56aed60343dfbbde5603132982f0378
-SHA1: 92fdbd2dbb0e60e7f34b2269e422e5e201255c0b
-SHA256: 95dc7cd71472adaba7da68cc61bb344c55b232f015a5f5f5a339a4738b5d6b8c
-SHA512: 3227e5ca4c5976bba89354a1fc9aa9b1c2b30dbe2ff81e44f5d891dea72bdb78e94d6447c1c923c5e5c2a69af373daf8b7813fecbd92e20cf14a5af1636c5404
+Filename: pool/main/adaptation-evergreen-configs_0.0+3_all.deb
+Size: 29192
+MD5sum: 882d949ee1b88bb1ddf0452bb7556f2f
+SHA1: a4075bcae2a08ae28dbde59297285dd9357ff314
+SHA256: 2be212f58042bd093fc5bba6eeba3fa0caee2e48a43ae174a9013f11bd495660
+SHA512: 8251354b3bb2a3678961c20340bacc88b7d42e2739ec8b3bebc44853c1a9ff8ae5c1c4708536f4a07242e183646696d35c200e87e7b8a4c88195141de612e66c
 Description: evergreen's adaptation configs
 
