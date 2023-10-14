@@ -1,0 +1,27 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Date: Sat, 14 Oct 2023 20:22:17 +0000
+MD5Sum:
+ f8348c20c8bf9635266440ea731a7a28             2716 Packages
+ 4f29679e541dfd6e3dca44c2697bf4b1             1047 Packages.gz
+ 80408215ddc5e46d1372e5a3f443ab71               38 Release
+SHA1:
+ 5a5ad38d5971697384fd545b5014bf91f84b4cdf             2716 Packages
+ 446b295b3894ec80807021aa1f7718bc22f0e014             1047 Packages.gz
+ 6134425e9dff87180f4089ce14363a5d21c4ee1e               38 Release
+SHA256:
+ 0dae31ffb2ab3ab6daabcbf7815e6a1df12541b9ea32cd78305f4fcd25990fd8             2716 Packages
+ 03591f5257c15e4e6e64772929f319464fe440ba006041f7ede710958eff8292             1047 Packages.gz
+ 46f7e5bea833ee67a0871f3cd535ad7c01afab05901b0a94bd089adfbd50b179               38 Release
+SHA512:
+ 0b390ac686a94cd808363409357ad01fae13d3c231ddb8129f207eab763a0b00d3c3b304ebd21054932bd2f2df8eaa38c2aa8d0ae6b6a0db7d70896bff559fd0             2716 Packages
+ 2191b1d92114a6c7dc07fc9289530da2894d86f05c56e096483caea07cd6840fdb85d7cd77c173a45df5288223c5db135df9ccb2ced5d7398bd0a6b1ae0499d1             1047 Packages.gz
+ 4dcd0c121f6b13f24a18a21b2cd20c59a1b822d313e937036aac6f2359e8a4295585f95477bebe4d5e7e701f1892f425236bdc6ce9abafc26b2b4e09398673f3               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQRiuToOSYKeScYwd8csTTZbMB3LwwUCZSr4eQAKCRAsTTZbMB3L
+w2ZzAQDmLRJxCs/lg4eb/Fd4KA8BC8sNP2uy+wvgiDqgNA0P3AD/ZWKNRlXk6w70
+Ejvc6OP10ZnvXwkwK65HAoP0ffW63gY=
+=Tkbl
+-----END PGP SIGNATURE-----

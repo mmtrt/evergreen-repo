@@ -1,0 +1,69 @@
+Package: adaptation-droidian-evergreen
+Version: 0.0+7
+Architecture: all
+Maintainer: mmtrt
+Installed-Size: 9
+Depends: adaptation-hybris-api30-phone, adaptation-evergreen-configs, linux-image-4.14.186-xiaomi-evergreen, bsdextrautils, droidian-camera
+Filename: ./adaptation-droidian-evergreen_0.0+7_all.deb
+Size: 2624
+MD5sum: bb3fab5b53c152cb925231c20d6d6b65
+SHA1: 0e549cd61cc8466f4f7795ac5559fa6edd16d868
+SHA256: 205c0f8cfc124c572c21ba5de528c72498abe05901bb701eeec434c94fd04a4b
+Section: metapackages
+Priority: optional
+Description: adapatation-evergreen-meta
+ evergreen api30 adaptation metapackage
+
+Package: adaptation-evergreen-configs
+Source: adaptation-droidian-evergreen
+Version: 0.0+7
+Architecture: all
+Maintainer: mmtrt
+Installed-Size: 206
+Depends: dconf-gsettings-backend | gsettings-backend
+Filename: ./adaptation-evergreen-configs_0.0+7_all.deb
+Size: 37332
+MD5sum: bd58befc9898a9b0dc804deda2cc14eb
+SHA1: c953086da1c14bd14423f73cb41ac804abb9c13e
+SHA256: d6b915189021234609995374015840b6a19280a5345669e87832c4aa5b6693bd
+Section: metapackages
+Priority: optional
+Description: evergreen's adaptation configs
+
+Package: linux-image-4.14.186-xiaomi-evergreen
+Source: linux-android-xiaomi-evergreen
+Version: 0.0.0+git20231014083843.888acbd.droidian
+Architecture: arm64
+Maintainer: Droidian porters <info@droidian.org>
+Installed-Size: 28471
+Filename: ./linux-image-4.14.186-xiaomi-evergreen_0.0.0+git20231014083843.888acbd.droidian_arm64.deb
+Size: 20896532
+MD5sum: 0d2b916bef00942e06b650aaebb54b9f
+SHA1: 57a27c8c5bca6ef1c9692e8d39e220fb1a7cd946
+SHA256: 933f7c976fdb9917f50cfa616241e4985b606470ce4320212033aea72c401520
+Section: kernel
+Priority: optional
+Description: Linux kernel for POCO M4 Pro 5G
+ This package contains the Linux kernel for the POCO M4 Pro 5G device.
+ .
+ Note: This package only ships the kernel image and modules, you should probably
+ look at the linux-bootimage-4.14.186-xiaomi-evergreen package for a bootimage suitable
+ for Android boot loaders.
+
+Package: linux-image-xiaomi-evergreen
+Source: linux-android-xiaomi-evergreen
+Version: 0.0.0+git20231014083843.888acbd.droidian
+Architecture: arm64
+Maintainer: Droidian porters <info@droidian.org>
+Installed-Size: 2627
+Depends: linux-image-4.14.186-xiaomi-evergreen (= 0.0.0+git20231014083843.888acbd.droidian)
+Filename: ./linux-image-xiaomi-evergreen_0.0.0+git20231014083843.888acbd.droidian_arm64.deb
+Size: 2685296
+MD5sum: bd427ba05987d70568a6784a7279425f
+SHA1: 8c2c895742c595a5fa5fb612b21cf1bd015d2003
+SHA256: 5d220b4ec80a0fe00ca896e49f5c38270af586997153dc9d11b01b2a11922131
+Section: kernel
+Priority: optional
+Description: Linux kernel for POCO M4 Pro 5G (latest)
+ This package depends to the latest kernel image available for the POCO M4 Pro 5G.
+
